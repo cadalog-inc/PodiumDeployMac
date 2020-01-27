@@ -11,7 +11,7 @@ to make the RBZ and OS installers:
 7. download the rbz file
 8. rename the rbz extension to zip
 9. unzip
-10. copy the large HDR images from deploy into source over the small images**
+10. copy the large HDR images from deploy into unzipped rbz over the small images**
 
 to make the rbz installers:
 
@@ -19,8 +19,6 @@ to make the rbz installers:
 12. rename the zip extension to rbz
 13. name with the build version and Sketchup year (SU_Podium_V26_043_2017.rbz)
 14. upload to dropbox
-15. remove the Extras, extensions and HDR content copied from deploy to source
-16. repeat these steps for each version of Sketchup
 
 to make the OS installers
 
@@ -28,5 +26,8 @@ to make the OS installers
 12. run the installer*
 13. name the installer with the build version and Sketchup year
 14. upload to dropbox
+
+after finishing
+
 15. remove the Extras, extensions and HDR content copied from deploy to source
 16. repeat these steps for each version of Sketchup
