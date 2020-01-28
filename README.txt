@@ -17,7 +17,7 @@ to make the RBZ and OS installers:
 
 to make the rbz installers:
 
-11. set $ufl*** to true in SU_Podium_V26.rb
+11. set $ufl*** to false in SU_Podium_V26.rb
 12. zip again
 13. rename the zip extension to rbz
 14. name with the build version and Sketchup year (SU_Podium_V26_043_2017.rbz)
@@ -25,7 +25,7 @@ to make the rbz installers:
 
 to make the OS installers
 
-11. set $ulf*** to false in SU_Podium_V26.rb
+11. set $ulf*** to true in SU_Podium_V26.rb
 12. copy the contents of the unzipped rbz into the folder* in publish*
 13. run the installer*
 14. name the installer with the build version and Sketchup year
